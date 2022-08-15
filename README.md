@@ -1,24 +1,29 @@
-# README
+# アプリケーション名
+PicTweet
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# アプリケーション概要
+ユーザー同士で写真を共有することができるサービスです。<br>
+ユーザーは、新規登録後に、画像とテキストを投稿することができます。投稿内容は編集、削除可能です。そしてコメント欄にて、他のユーザーはツイートに対してコメントすることができます。。また、ユーザーページにて、ユーザーの詳細情報や、そのユーザーが投稿したツイートの一覧も見ることができます。
 
-Things you may want to cover:
+# 要件定義
 
-* Ruby version
+# データベース設計
 
-* System dependencies
+[![Image from Gyazo](https://i.gyazo.com/36ffc0d5932e16ac6b4dbd951fdc3925.png)](https://gyazo.com/36ffc0d5932e16ac6b4dbd951fdc3925)
 
-* Configuration
 
-* Database creation
+# 面遷移図
 
-* Database initialization
+[![Image from Gyazo](https://i.gyazo.com/f39321a82d45290665bf820d1d05f169.png)](https://gyazo.com/f39321a82d45290665bf820d1d05f169)
 
-* How to run the test suite
+# 開発環境
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- フロントエンド
+	- HTML,CSS
+- バックエンド
+	- Ruby on Rails(Ruby)
+	- Javascript
+- データベース
+	- MySQL
+- タスク管理
+	- Github
