@@ -12,7 +12,7 @@ PicTweet
 [![Image from Gyazo](https://i.gyazo.com/36ffc0d5932e16ac6b4dbd951fdc3925.png)](https://gyazo.com/36ffc0d5932e16ac6b4dbd951fdc3925)
 
 
-# 面遷移図
+# 画面遷移図
 
 [![Image from Gyazo](https://i.gyazo.com/f39321a82d45290665bf820d1d05f169.png)](https://gyazo.com/f39321a82d45290665bf820d1d05f169)
 
